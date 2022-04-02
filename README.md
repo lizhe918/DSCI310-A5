@@ -1,15 +1,3 @@
-
-<!-- README.md is generated from README.Rmd. Please edit that file -->
-
-# regexcite
-
-<!-- badges: start -->
-<!-- badges: end -->
-
-The goal of regexcite is to …
-
-## Installation
-
 ---
 output: github_document
 ---
@@ -43,7 +31,7 @@ You can install the development version of regexcite from [GitHub](https://githu
       
 ``` r
 # install.packages("devtools")
-devtools::install_github("lizhe918/DSCI310-A5")
+devtools::install_github("jennybc/regexcite")
 ```
 
 ## Usage
